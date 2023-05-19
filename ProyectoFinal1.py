@@ -1,7 +1,7 @@
 '''
     Proyecto final biblioteca - Álvaro García Pizarro
     27 de abril de 2023
-    Formación Banco Santander - Python python 
+    Formación Banco Santander - Python
 '''
 #Librerías necesarias
 import csv
